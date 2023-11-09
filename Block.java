@@ -1,3 +1,12 @@
+<<<<<<< Updated upstream
+=======
+
+/**
+ * @author: Luke Walters, Sam Bigham, Joshua Delarosa
+ */
+
+import java.nio.ByteBuffer;
+>>>>>>> Stashed changes
 import java.security.MessageDigest;
 import java.security.NoSuchAlgorithmException;
 import java.security.MessageDigest;
